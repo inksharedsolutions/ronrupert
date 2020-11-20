@@ -20,10 +20,9 @@ const Author = () => {
                         </h1>
 
                         <span className="author-tagline">Author & Writer</span>
-
-                        <button className="buttonLayouts" data-aos="fade-up" data-aos-duration="3000" >
-                            <Link to="/about-the-author">Read More</Link>
-                        </button>
+                        <Link className="buttonLayouts" data-aos="fade-up" data-aos-duration="3000" to="/about-the-author">
+                            Read More
+                        </Link>
                     </div>
 
                     <div className="grid-child" id="author-image-container">

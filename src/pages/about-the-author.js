@@ -35,16 +35,16 @@ const ATB = (props) => {
 
                         <article className="article-section column" id="author">
                             <p>
-                            I was born in Niagara Falls, Canada where we lived, and I went to public school until I was 13 when we moved to Fort Erie a town across the Niagara River from Buffalo NY. I finished Public School and went to Fort Erie High school. I quit high school halfway through grade nine and started working. I had many different jobs, punch press operator, welding, woodworking, upholstery, landscaping, tree trimming and removing, and a steeplejack.
+                            Ron was working in an A & P grocery supermarket when a friend came in that was in a police uniform. He had been transferred to the same city, where  Ron was working in a grocery store, when his friend met him. He was invited to his friend’s house the next evening to update from the time they had last seen each other. During the conversation, Ron was asked if he ever thought of being a police officer. Ron responded with, I never thought of that, but it might be a good idea. His friend told him that he would get him an application. Fill it out, get some good references and send it in. Which he did.
                             </p>
                             <p>
-                            I quit working when I was 20 and went back to high school and fished my education. While going to school I worked weekends at the A&P store. After finishing high school, I worked full time at the A&P store in Fort Erie and was later transferred to the Welland Store. 
+                            Ron joined the Ontario Provincial Police in 1951.  In his first 12 years on the force, Ron worked undercover, with highway patrol and carrying out municipal policing duties.
                             </p>
                             <p>
-                            One day, while stocking shelves in the store, I noticed a police officer start down the aisle with his wife. I kept placing the items on the shelves and did not pay any attention to the police officer. When the police officer got behind me, he said, “How are you doing Ron?” 
+                            For the next 22 years Ron did Crime Scene Investigations (CSI) and worked on many criminal cases, some more notorious than others. After retiring from the OPP, the chief of the Woodstock Police Department, asked Ron to come and work for them. Woodstock needed a qualified CSI person and knew Ron would be a tremendous asset. While with the Woodstock PD, Ron worked on more cases, including several murders, using his vast CSI experience to help investigate crimes.
                             </p>
                             <p>
-                            I turned around and found to my surprise it was a friend I knew from Fort Erie, Charlie Gorham. We talked for a few minutes and I found out he had been transferred from Fort Erie a few months ago. After a little discussion, he invited me over to his house for the next evening and gave me his address.
+                            In his long and rewarding career as a police officer, Ron worked more than 65 murders, as well as other various crimes. This is his first book. 
                             </p>
                             <p>
                             I went over to Charlie’s house the next evening where we discussed a lot of familiar topics. 
@@ -145,7 +145,7 @@ const ATB = (props) => {
                             <p>
                                 <span className="author-name">
                                     <span className="author-span-ft">Author | Writer </span>
-                                    <span className="ata-name">Charles Curtis</span>
+                                    <span className="ata-name">Ron Rupert</span>
                                 </span>
                             </p>
 

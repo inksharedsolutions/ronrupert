@@ -34,18 +34,26 @@ const ATB = (props) => {
 
                         <BookInfo
                             data={{
-                                title: `The Crime Case`,
+                                title: `The Crime Cases`,
                                 spanFirst: `AN IMPRINT ON LIFE`,
                                 imgSrc: Book1,
                                 id: 'the_gifted_one',
                                 content:
                                     `
                                         <p>
-                                        One of the murders I had was remarkably interesting, in that the Crown Attorney (Prosecutor) believed the trial would last three to four weeks. I was the first witness called to give evidence.
+                                        Ron was working in an A & P grocery supermarket when a friend came in that was in a police uniform. He had been transferred to the same city, where  Ron was working in a grocery store, when his friend met him. He was invited to his friend’s house the next evening to update from the time they had last seen each other. During the conversation, Ron was asked if he ever thought of being a police officer. Ron responded with, I never thought of that, but it might be a good idea. His friend told him that he would get him an application. Fill it out, get some good references and send it in. Which he did.
                                         </p> 
 
                                         <p>
-                                        I was in the witness box for a day and a half giving my evidence. I produced and described all my photos, I produced charts identifying his boot print in the snow at the crime scene to his boots, the tire tracks at the crime scene and at the Union Hall to his truck, The palm print on the exit door from the union hall, his 2 fingerprints on a beer bottle near where his boot prints were, I found behind her footprints as he pressed her up against the outside wall of the building, the blood I took form the passenger side of his truck and blood found on his jeans lying on the the floor beside his bed in his apartment which was the victim's blood. I finished giving my evidence just before noon the second day. When court resumed the guy charged with murder changed his plea to guilty after hearing the damming evidence against him.
+                                        Ron joined the Ontario Provincial Police in 1951.  In his first 12 years on the force, Ron worked undercover, with highway patrol and carrying out municipal policing duties.
+                                        </p>
+
+                                        <p>
+                                        For the next 22 years Ron did Crime Scene Investigations (CSI) and worked on many criminal cases, some more notorious than others. After retiring from the OPP, the chief of the Woodstock Police Department, asked Ron to come and work for them. Woodstock needed a qualified CSI person and knew Ron would be a tremendous asset. While with the Woodstock PD, Ron worked on more cases, including several murders, using his vast CSI experience to help investigate crimes.
+                                        </p>
+
+                                        <p>
+                                        In his long and rewarding career as a police officer, Ron worked more than 65 murders, as well as other various crimes. This is his first book. 
                                         </p>
                                     `,
 

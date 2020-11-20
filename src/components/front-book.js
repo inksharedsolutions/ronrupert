@@ -27,7 +27,7 @@ const MidBook = (props) => {
                             </h1>
 
                             <p data-aos="fade-up" data-aos-duration="2000">
-                                One of the murders I had was remarkably interesting, in that the Crown Attorney (Prosecutor) believed the trial would last three to four weeks. I was the first witness called to give evidence.
+                            Ron was working in an A & P grocery supermarket when a friend came in that was in a police uniform. He had been transferred to the same city, where  Ron was working in a grocery store, when his friend met him. He was invited to his friend’s house the next evening to update from the time they had last seen each other. During the conversation, Ron was asked if he ever thought of being a police officer.
                             </p>
 
                             <button className="btn-book-featured" data-aos="fade-up" data-aos-duration="3000">

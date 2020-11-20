@@ -8,7 +8,7 @@
 Ron Rupert offers this Web site, including all information, software, products and services available from this Web site or offered as part of or in conjunction with this Web site (the “Website”), to you, the user, conditioned upon your acceptance of all of the terms, conditions, policies and notices stated here. 
 Ron Rupert reserves the right to make changes to these Terms and Conditions immediately by posting the changed Terms and Conditions in this location.
 
-Your continued use of the Web site constitutes your agreement to all such terms, conditions and notices, and any changes to the Terms and Conditions made by
+Your continued use of the Web site constitutes your agreement to all such terms, conditZions and notices, and any changes to the Terms and Conditions made by
 Ron Rupert .
 
 The term ‘us’ or ‘we’ refers to the owner of the website. The term ‘you’ refers to the user or viewer of our website.

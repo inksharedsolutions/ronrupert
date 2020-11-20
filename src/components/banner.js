@@ -19,7 +19,7 @@ const Banner = () => {
                                 </p>
 
                                 <h1 data-aos="fade-up" data-aos-duration="2000" >
-                                    CRIME CASE
+                                    CRIME CASES
                                 </h1>
 
                                 <p className="right-sub-text" data-aos="fade-up" data-aos-duration="3000" >
