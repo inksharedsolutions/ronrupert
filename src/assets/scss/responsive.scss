@@ -568,7 +568,11 @@
 }
 
 
-
+@media screen and (max-width: 375px) {
+ #disqus_thread{
+     padding: 25px;
+ }
+}
 
 /***
   ================
