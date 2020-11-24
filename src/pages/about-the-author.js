@@ -117,7 +117,7 @@ const ATB = (props) => {
                             </p>
 
                             <p>
-                            When I went to a crime scene, I went by myself. If it was a murder I took someone with me to take notes for me as I took pictures, search for fingerprint d t I found and saved, picked up exhibits, and receive exhibits from doctors and other witnesses. 
+                            When I went to a crime scene, I went by myself. If it was a murder I took someone with me to take notes for me as I took pictures, search for fingerprint found and saved, picked up exhibits, and receive exhibits from doctors and other witnesses. 
                             </p>
 
                             <p>
