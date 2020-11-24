@@ -15,7 +15,7 @@ const Banner = () => {
                         <div className="grid-child-elem">
                             <div className="banner-text">
                                 <p data-aos="fade-up" data-aos-duration="3000" >
-                                    The
+                                    True
                                 </p>
 
                                 <h1 data-aos="fade-up" data-aos-duration="2000" >
