@@ -38,10 +38,10 @@ const ATB = (props) => {
                             I was born in Niagara Falls, Canada where we lived, and I went to public school until I was 13 when we moved to Fort Erie a town across the Niagara River from Buffalo NY. I finished Public School and went to Fort Erie High school. I quit high school halfway through grade nine and started working. I had many different jobs, punch press operator, welding, woodworking, upholstery, landscaping, tree trimming and removing, and a steeplejack.
                             </p>
                             <p>
-                            I quit working when I was 20 and went back to high school and fished my education. While going to school I worked weekends at the A&P store. After finishing high school, I worked full time at the A&P store in Fort Erie and was later transferred to the Welland Store. 
+                            I quit working when I was 20 and went back to high school and fished my education. While going to school I worked weekends at the A&P store. After finishing high school, I worked full time at the A&P store in Fort Erie and was later transferred to the Welland Store.
                             </p>
                             <p>
-                            One day, while stocking shelves in the store, I noticed a police officer start down the aisle with his wife. I kept placing the items on the shelves and did not pay any attention to the police officer. When the police officer got behind me, he said, “How are you doing Ron?” 
+                            One day, while stocking shelves in the store, I noticed a police officer start down the aisle with his wife. I kept placing the items on the shelves and did not pay any attention to the police officer. When the police officer got behind me, he said, “How are you doing Ron?”
                             </p>
                             <p>
                             I turned around and found to my surprise it was a friend I knew from Fort Erie, Charlie Gorham. We talked for a few minutes and I found out he had been transferred from Fort Erie a few months ago. After a little discussion, he invited me over to his house for the next evening and gave me his address.
@@ -56,7 +56,11 @@ const ATB = (props) => {
                             </p>
 
                             <p>
-                            I eventually received a letter requesting my presents at the Ontario Provincial Police Headquarters in Toronto to be tested by writing a type of an exam.
+                            Two weeks later I received a letter requesting I attend the police academy in Toronto for the police training course.    
+                            </p>
+
+                            <p>
+                            The last day of the training course, an officer came into the classroom and started going over the location where all the class members would be stationed. There were 16 districts in the Province, the higher the number the further north you would be. I was afraid I was going to be in the north of the Province, but no, I was assigned to the Anti-gambling office which was in the building which was next to the building the classroom was situated. I was to report there on Monday.
                             </p>
 
                             <p>
@@ -102,7 +106,7 @@ const ATB = (props) => {
                             </p>
 
                             <p>
-                            AI also did my enforcement duties as well. At one point while stationed in Milton I was shot and was off work for over three months recovering.
+                            I also did my enforcement duties as well. At one point while stationed in Milton I was shot and was off work for over three months recovering.
                             From Milton, I was transferred to Municipal duties in the town of Acton where I spent another four years and where I did some more safety work and law enforcement.
                             In September of 1964, I got a letter from the Queens Park Amateur Radio Club, as I had been a licensed amateur radio operator for some time, invited me to a dinner in Toronto the next week. I was advised in the letter the Commissioner of the OPP, also an amateur radio operator would also be there. I took the letter over to the Corporal and showed It to him. Because the Commissioner's name was shown in the letter, he told me to go.
                             </p>
@@ -117,7 +121,7 @@ const ATB = (props) => {
                             </p>
 
                             <p>
-                            When I went to a crime scene, I went by myself. If it was a murder I took someone with me to take notes for me as I took pictures, search for fingerprint found and saved, picked up exhibits, and receive exhibits from doctors and other witnesses. 
+                            When I went to a crime scene, I went by myself. If it was a murder I took someone with me to take notes for me as I took pictures, search for fingerprint d t I found and saved, picked up exhibits, and receive exhibits from doctors and other witnesses. 
                             </p>
 
                             <p>
