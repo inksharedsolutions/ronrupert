@@ -12,7 +12,7 @@ const MidBook = (props) => {
                     <div className="grid-two-columns" id="wrapper-two-books" >
 
                         <div className="book-wraps" >
-                            <img src={FrontBook} data-aos="fade-up" data-aos-duration="3000" />
+                            <img alt="True Crime Cases front cover" src={FrontBook} data-aos="fade-up" data-aos-duration="3000" />
                         </div>
 
                         <div className="content-wraps">

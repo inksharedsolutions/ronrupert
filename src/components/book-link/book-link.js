@@ -7,7 +7,7 @@ const BookLink = (props)=>{
         <>
             <section className="fullSection">
 
-                {!Object.entries(props.data.ebooks).length == 0 && (
+                {!Object.entries(props.data.ebooks).length === 0 && (
 
                     <nav className={`${props.data.isNonfront ? 'booklinkBlocks' : 'frontLinks'}`} >
                         <span>{`${props.data.isNonfront?'Ebooks': ''}`}</span>
@@ -17,7 +17,7 @@ const BookLink = (props)=>{
                     </nav>
                 )} 
 
-                {!Object.entries(props.data.paperback).length == 0 && (
+                {!Object.entries(props.data.paperback).length === 0 && (
 
                     <nav className={`${props.data.isNonfront ? 'booklinkBlocks' : 'frontLinks'}`} >
                         <span>{`${props.data.isNonfront?'Purchase Paperback': ''}`}</span>
@@ -27,11 +27,11 @@ const BookLink = (props)=>{
                     </nav> 
                 )}      
 
-                {!Object.entries(props.data.reviews).length == 0 && (
+                {!Object.entries(props.data.reviews).length === 0 && (
                     
                     <nav className={`${props.data.isNonfront ? 'booklinkBlocks' : 'frontLinks'}`}>
                         <span>Reviews</span>
-                        <li><a target="_blank" href={props.data.reviews.review}>Reviews</a></li>
+                        <li><a rel="noopener noreferrer" target="_blank" href={props.data.reviews.review}>Reviews</a></li>
                     </nav>
 
                 )}
